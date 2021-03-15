@@ -1,0 +1,12 @@
+{
+	"name": "integrationRuntime2",
+	"properties": {
+		"type": "SelfHosted",
+		"typeProperties": {
+			"linkedInfo": {
+				"resourceId": "/subscriptions/e7a3f85c-ec63-4b25-be59-a449da46e127/resourcegroups/datafactory/providers/Microsoft.DataFactory/factories/sourcedatafactory2021/integrationruntimes/selfhostedir",
+				"authorizationType": "Rbac"
+			}
+		}
+	}
+}
